@@ -16,4 +16,7 @@ My name is Erkan Zileli, I'm based in Turkey, city Istanbul.
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/erkanzileli-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erkanzileli)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erkanzileli)
+[![Medium Badge](https://img.shields.io/badge/medium-green?style=for-the-badge&logo=medium)](https://medium.com/@erkanzileli)
+
+
